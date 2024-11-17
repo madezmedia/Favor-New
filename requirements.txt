@@ -1,0 +1,9 @@
+streamlit==1.31.1
+crewai==0.16.3
+pandas==2.2.1
+plotly==5.19.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+yfinance==0.2.37
+python-dotenv==1.0.1
+openai==1.12.0
